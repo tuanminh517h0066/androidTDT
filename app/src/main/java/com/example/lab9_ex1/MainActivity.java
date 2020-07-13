@@ -95,6 +95,7 @@ public class MainActivity extends AppCompatActivity {
         protected void onProgressUpdate(DownloadFile... values) {
             //super.onProgressUpdate(values);
             adapter.notifyDataSetChanged();
+
         }
     }
 
