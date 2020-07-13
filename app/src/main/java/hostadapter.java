@@ -1,4 +1,4 @@
 public class hostadapter {
-    int a= 0;
+    int a=2;
     String b= null;
 }
